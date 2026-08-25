@@ -1,5 +1,5 @@
 {
-    "config_version":  1,
+    "config_version":  2,
     "app":  {
                 "home_url":  "https://pan.quark.cn/s/1276e3bc1b3a",
                 "allowed_domains":  [
@@ -8,7 +8,7 @@
             },
     "announcement":  {
                          "enabled":  true,
-                         "id":  "welcome-4-cloud-live",
+                         "id":  "welcome-5-qq-button",
                          "title":  "资源公告",
                          "content":  "云端公告已启用。以后修改 GitHub 配置后，重新打开 App 即可更新。",
                          "dismissible":  true,
