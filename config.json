@@ -1,14 +1,38 @@
 {
-  "config_version": 1,
-  "app": {"home_url": "https://pan.quark.cn/s/1276e3bc1b3a", "allowed_domains": ["pan.quark.cn"]},
-  "announcement": {
-    "enabled": true,
-    "id": "welcome-3-in-app",
-    "title": "资源公告",
-    "content": "欢迎使用免费资源大全。资源页面将在 App 内打开。",
-    "dismissible": true,
-    "buttons": [{"text": "进入资源页面", "url": "https://pan.quark.cn/s/1276e3bc1b3a", "open_mode": "in_app", "style": "primary"}]
-  },
-  "maintenance": {"enabled": false, "message": ""},
-  "update": {"enabled": false, "version_code": 1, "version_name": "1.0.0", "mandatory": false, "title": "", "message": "", "apk_url": "", "sha256": ""}
+    "config_version":  1,
+    "app":  {
+                "home_url":  "https://pan.quark.cn/s/1276e3bc1b3a",
+                "allowed_domains":  [
+                                        "pan.quark.cn"
+                                    ]
+            },
+    "announcement":  {
+                         "enabled":  true,
+                         "id":  "welcome-4-cloud-live",
+                         "title":  "资源公告",
+                         "content":  "云端公告已启用。以后修改 GitHub 配置后，重新打开 App 即可更新。",
+                         "dismissible":  true,
+                         "buttons":  [
+                                         {
+                                             "text":  "进入资源页面",
+                                             "url":  "https://pan.quark.cn/s/1276e3bc1b3a",
+                                             "open_mode":  "in_app",
+                                             "style":  "primary"
+                                         }
+                                     ]
+                     },
+    "maintenance":  {
+                        "enabled":  false,
+                        "message":  ""
+                    },
+    "update":  {
+                   "enabled":  false,
+                   "version_code":  1,
+                   "version_name":  "1.0.0",
+                   "mandatory":  false,
+                   "title":  "",
+                   "message":  "",
+                   "apk_url":  "",
+                   "sha256":  ""
+               }
 }
