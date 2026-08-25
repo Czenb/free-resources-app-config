@@ -8,21 +8,15 @@
             },
     "announcement":  {
                          "enabled":  true,
-                         "id":  "welcome-5-qq-button",
-                         "title":  "资源公告",
-                         "content":  "云端公告已启用。以后修改 GitHub 配置后，重新打开 App 即可更新。",
+                         "id":  "usage-notice-2026-08-25",
+                         "title":  "使用公告",
+                         "content":  "资源每天都会上新，建议大家将文件夹转存到自己的网盘，这样提示的时候就会显示哪个更新咯！",
                          "dismissible":  true,
                          "show_every_launch":  true,
                          "buttons":  [
                                          {
-                                             "text":  "进入资源页面",
-                                             "url":  "https://pan.quark.cn/s/1276e3bc1b3a",
-                                             "open_mode":  "in_app",
-                                             "style":  "primary"
-                                         },
-                                         {
                                              "text":  "点击跳转QQ群",
-                                             "url":  "https://qun.qq.com/universal-share/share?ac=1&authKey=CP21XPlVBx5n5ucGVrg6C9TdVgYVOOQIAHI3%2FZlmoVDSnu%2BmJ2ZPBINn47ADVUKd&busi_data=eyJncm91cENvZGUiOiI0MzM5NTU1MzEiLCJ0b2tlbiI6IjVzMFdDSDEvYU9XaklGYml4WTlyaGRIMFNjOHBPSjZDb2ZOWFNMZVVmNGtBZlEzRm9OVHdWdzZHMHp5R0IwZ3giLCJ1aW4iOiI3MjUyOTQ0NTQifQ%3D%3D&data=eO7an10iw_M0_PmyQcYokl9KYkmQmHHr6FDRkLJz-GvFi4EShSIUJ5ZVWSNVc1MaFePh6uyBNjjo1qTpSjjmYw&svctype=4&tempid=h5_group_info",
+                                             "url":  "https://qun.qq.com/universal-share/share?ac=1\u0026authKey=CP21XPlVBx5n5ucGVrg6C9TdVgYVOOQIAHI3%2FZlmoVDSnu%2BmJ2ZPBINn47ADVUKd\u0026busi_data=eyJncm91cENvZGUiOiI0MzM5NTU1MzEiLCJ0b2tlbiI6IjVzMFdDSDEvYU9XaklGYml4WTlyaGRIMFNjOHBPSjZDb2ZOWFNMZVVmNGtBZlEzRm9OVHdWdzZHMHp5R0IwZ3giLCJ1aW4iOiI3MjUyOTQ0NTQifQ%3D%3D\u0026data=eO7an10iw_M0_PmyQcYokl9KYkmQmHHr6FDRkLJz-GvFi4EShSIUJ5ZVWSNVc1MaFePh6uyBNjjo1qTpSjjmYw\u0026svctype=4\u0026tempid=h5_group_info",
                                              "open_mode":  "browser",
                                              "style":  "primary"
                                          }
