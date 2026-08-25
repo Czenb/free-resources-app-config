@@ -12,6 +12,7 @@
                          "title":  "资源公告",
                          "content":  "云端公告已启用。以后修改 GitHub 配置后，重新打开 App 即可更新。",
                          "dismissible":  true,
+                         "show_every_launch":  true,
                          "buttons":  [
                                          {
                                              "text":  "进入资源页面",
