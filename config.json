@@ -19,6 +19,12 @@
                                              "url":  "https://pan.quark.cn/s/1276e3bc1b3a",
                                              "open_mode":  "in_app",
                                              "style":  "primary"
+                                         },
+                                         {
+                                             "text":  "点击跳转QQ群",
+                                             "url":  "https://qun.qq.com/universal-share/share?ac=1&authKey=CP21XPlVBx5n5ucGVrg6C9TdVgYVOOQIAHI3%2FZlmoVDSnu%2BmJ2ZPBINn47ADVUKd&busi_data=eyJncm91cENvZGUiOiI0MzM5NTU1MzEiLCJ0b2tlbiI6IjVzMFdDSDEvYU9XaklGYml4WTlyaGRIMFNjOHBPSjZDb2ZOWFNMZVVmNGtBZlEzRm9OVHdWdzZHMHp5R0IwZ3giLCJ1aW4iOiI3MjUyOTQ0NTQifQ%3D%3D&data=eO7an10iw_M0_PmyQcYokl9KYkmQmHHr6FDRkLJz-GvFi4EShSIUJ5ZVWSNVc1MaFePh6uyBNjjo1qTpSjjmYw&svctype=4&tempid=h5_group_info",
+                                             "open_mode":  "browser",
+                                             "style":  "primary"
                                          }
                                      ]
                      },
